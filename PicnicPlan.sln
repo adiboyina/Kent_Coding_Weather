@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kent_Coding_Weather", "Kent_Coding_Weather\Kent_Coding_Weather.csproj", "{DA61A4BF-9289-446C-BD18-581114D041CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicnicPlan", "Kent_Coding_Weather\PicnicPlan.csproj", "{DA61A4BF-9289-446C-BD18-581114D041CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
