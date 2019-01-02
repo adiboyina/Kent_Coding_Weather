@@ -14,6 +14,7 @@ namespace PicnicPlan
         public static int dayOfMonthIndex;
         public static int dayOfWeekIndex;
 
+
         public static readonly string highCelcius = "High(celcius)";
         public static readonly string lowCelcius = "Low(Celsius)";
         public static readonly string chanceOfPrecipitation = "ChanceOfPrecipitation";
