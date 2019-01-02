@@ -13,5 +13,6 @@ namespace PicnicPlan
         public double HighCelcius { get; set; }
         public double LowCelsius { get; set; }
         public int ChanceOfPrecipitation { get; set; }
+
     }
 }
